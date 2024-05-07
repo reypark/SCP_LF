@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--
 <p align="center">
   <img src="https://github.com/reypark/scp_lf/raw/main/docs/source/logo.png" height="150">
