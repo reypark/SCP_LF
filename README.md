@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 <p align="center">
   <img src="https://github.com/reypark/scp_lf/raw/main/docs/source/logo.png" height="150">
@@ -197,3 +198,7 @@ This script does the following:
    use `tox -e bumpversion -- minor` after.
 
 </details>
+=======
+# scp_lf
+May Institute Demo 2024
+>>>>>>> origin/main
